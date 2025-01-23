@@ -41,6 +41,6 @@ Os vídeos desta playlist:
 
 Essa série foi desenvolvida para quem deseja dar os primeiros passos em Inteligência Artificial com rapidez e eficiência. No futuro, aprofundaremos a teoria enquanto seguimos criando projetos práticos.
 
-Conecte-se com o professor [Raphael Garcia Moreira no LinkedIn](linkedin.com/in/raphaelgarciamoreira)
+Conecte-se com o professor [Raphael Garcia Moreira no LinkedIn](https://www.linkedin.com/in/raphaelgarciamoreira/)
 
 Prepare-se para transformar conhecimento em prática! 🚀
